@@ -1,6 +1,6 @@
 # Indice
 
-        ## Modulo 1 : Introduccion
+## Modulo 1 : Introduccion
 
 ### Clase 1
 - Crongrama de cursada
@@ -12,7 +12,7 @@
 - VSC y carpetas
 - Terminal de windows
 
-        ## Modulo 2 : Introduccion a node.js y javascript
+## Modulo 2 : Introduccion a node.js y javascript
 
 ### Clase 3
 - Inicializar proyecto con node.js
@@ -38,7 +38,7 @@
 ### Clase extra: Cierre de modulo
 - Apuntes del modulo
 
-        ## Modulo 3 : Metodologias de desarrollo
+## Modulo 3 : Metodologias de desarrollo
 
 ### Clase 7
 - GIT : Documentacion y glosario
@@ -49,7 +49,7 @@
 - Guia de armado de wireframes
 - Herramientas armado de wireframes
 
-        ## Modulo 4 : Anatomia de un sitio web
+## Modulo 4 : Anatomia de un sitio web
 
 ### Clase 10
 - Arquitectura cliente servidor
@@ -98,7 +98,8 @@
 - Transiciones
 - Z-index
 
-        ## Modulo 5 : Express
+## Modulo 5 : Express
+
 ### Clase 19
 - Controladores
 - epress-generator
